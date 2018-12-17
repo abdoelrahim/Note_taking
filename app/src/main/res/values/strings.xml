@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note++</string>
+    <string name="string_username">title</string>
+    <string name="string_password">body</string>
+
+
+</resources>
